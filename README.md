@@ -190,4 +190,6 @@ Contributors
 
    
 ----
-**Interesting lecture---- >> README.md*  *ugelucero wrotte this* :-)
+**Very interesting lecture **
+  
+*This has wrotte by ugelucero :-)*
